@@ -8,7 +8,7 @@ Fitron-AI is a modern fitness AI platform designed to help you get jacked for fr
 
 ![AI generate page](screenshot-for-readme.png)
 
-![Profile page](public/profile.png)
+
 
 
 
@@ -32,4 +32,5 @@ Fitron-AI is a modern fitness AI platform designed to help you get jacked for fr
 - **Vapi**: Voice agent platform for conversational AI
 - **Convex**: Real-time database
 - **Gemini AI**: Large Language Model for generating personalized fitness programs# Fitron.AI
+
 
